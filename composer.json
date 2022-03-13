@@ -39,5 +39,6 @@
   },
   "scripts-descriptions": {
     "check": "Roda as configurações do código. PHAN e PHPCS"
-  }
+  },
+  "bin": ["buscador_py.php"]
 }
